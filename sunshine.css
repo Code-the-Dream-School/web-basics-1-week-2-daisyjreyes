@@ -1,0 +1,25 @@
+h1 {
+    color: red; 
+    border-bottom: 4px solid red;
+    padding-right: 50px;
+}
+strong {
+    color:  darkred;
+}
+table {
+    border: 6px solid red;
+    width: 100%;
+}
+
+tbody th {
+    background-color: gray;
+    border: 6px;
+}
+
+img {
+    border: solid red;    
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin: 0 0 5px 0;
+}
